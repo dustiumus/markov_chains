@@ -1,3 +1,7 @@
+"""This ended up looking exactly like the solution code but I understand every single part of it and actually had to debug
+    My Own Copy of it because my chain wasn't working right because stuff wasn't placed right. Still after messing with the
+    It's amazing to see the power of inheriting the different functions and then chaining them together. Really like the way
+    that Python can read/call functions a lot smoother than Javascript and with less headache as long as you reference everything"""
 import sys
 from random import choice
 
